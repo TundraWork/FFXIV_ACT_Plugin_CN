@@ -39,6 +39,13 @@ FFXIV_ACT_Plugin_CN currently has following changes compared with the original F
 
 * This version may have some changes not mentioned above, if your plugins/tools have some "advanced" mechanisms (like detecting game language from FFXIV_ACT_Plugin), please also get touch with us.
 
+## Contact us
+
+NOTE: Do NOT use these links if you are a user of FFXIV_ACT_Plugin_CN. Please [open an issue](https://github.com/TundraWork/FFXIV_ACT_Plugin_CN/issues) instead.
+
+* [Telegram](https://t.me/YuzurihaAsano)
+* [联系我们 - FFCafe](https://ffcafe.org/contact/) (if you can speak Chinese)
+
 ---
 
 # FFXIV_ACT_Plugin_CN
@@ -77,3 +84,10 @@ FFXIV_ACT_Plugin_CN 当前相比于原版 FFXIV_ACT_Plugin 有以下更改：
 ### 注意
 
 * 此版本客户端可能有上面未提到的更改，如果你的插件或工具拥有一些“高级”机制（例如通过 FFXIV_ACT_Plugin 获取最终幻想14客户端语言），也请与我们联系。
+
+## Contact us
+
+注意：如果你是 FFXIV_ACT_Plugin_CN 插件用户，请**不要**使用以下链接联系我们。使用插件中遇到问题请[开一个新 issue](https://github.com/TundraWork/FFXIV_ACT_Plugin_CN/issues) 。
+
+* [联系我们 - FFCafe](https://ffcafe.org/contact/)
+* [Telegram](https://t.me/YuzurihaAsano)

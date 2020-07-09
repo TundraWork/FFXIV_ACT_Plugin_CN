@@ -1,4 +1,11 @@
-_温馨提示:下方有中文版本._
+
+Our team is shifting our focus from maintaining FFXIV_ACT_Plugin and Advanced Combat Tracker to creating a brand new FFXIV plugin ecosystem.
+
+If you're interested in doing something big, and have a good understanding of current ACT plugins (or at least FFXIV_ACT_Plugin), or experienced at developing typescript plugin system, you can reach me at [Telegram](https://t.me/YuzurihaAsano) or [Discord](https://discordapp.com/users/582958619662876672).
+
+---
+
+> 温馨提示:下方有中文版本.
 
 ---
 

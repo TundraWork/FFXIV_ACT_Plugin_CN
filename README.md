@@ -5,11 +5,24 @@ Our team is shifting our focus from maintaining FFXIV_ACT_Plugin and Advanced Co
 
 If you're interested in doing something big, and have a good understanding of current ACT plugins (or at least FFXIV_ACT_Plugin), or experienced at developing typescript plugin system, you can reach me at [Telegram](https://t.me/YuzurihaAsano) or [Discord](https://discord.gg/KYbkUnU).
 
+**Proposed features of the new project**
+
+- Intuitive GUI, easy to use & configure
+- Custom skins for GUI
+- Local high-precision aDPS & rDPS tracking, without uploading logs to FFLogs
+- Modern plugin interfaces
+- Responsive data interfaces for plugins, no more "log lines" parsing
+- Low-level network & memory data interfaces
+- Custom in-game overlays based on webview
+- Cactbot compatibility
+- Custom user-scripts to create triggers
+- Remote data source support (analyse game instance running on PS4/other PCs)
+
 **Roadmap of the new project**
 
-- [x] Compatible with FFLogs
-- [ ] Calculate DPS from network data, with DoT simulation
-- [ ] GUI built with electron
+- [x] [Done] Compatible with FFLogs
+- [ ] [Ongoing] Calculate DPS from network data, with DoT simulation
+- [ ] [Ongoing] GUI built with electron
 - [ ] Custom overlays like OverlayPlugin
 - [ ] Compatible with cactbot raidboss
 - [ ] Custom plugins with powerful API

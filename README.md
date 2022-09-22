@@ -1,41 +1,4 @@
 
-**Something about the future**
-
-Our team is shifting our focus from maintaining FFXIV_ACT_Plugin and Advanced Combat Tracker to creating a brand new FFXIV plugin ecosystem.
-
-If you're interested in doing something big, and meet one of the following requirements, you can reach me at [Telegram](https://t.me/YuzurihaAsano) or [Discord](https://discord.gg/KYbkUnU).
-
-- experienced at UX/UI designing
-- have a good understanding of current ACT plugins (or at least FFXIV_ACT_Plugin)
-- have a good understanding of FFXIV combat system (eg. how to calculate damage per potency, etc.)
-- experienced at developing TypeScript plugin system
-
-**Proposed features of the new project**
-
-- Intuitive GUI, easy to use & configure
-- Custom skins for GUI
-- Local high-precision aDPS & rDPS tracking, without uploading logs to FFLogs
-- Modern TypeScript plugin system
-- Responsive data interfaces for plugins, no more "log lines" parsing
-- Low-level network & memory data interfaces
-- Custom in-game overlays based on webview
-- Cactbot compatibility
-- Custom user-scripts for creating triggers
-- Remote data source support (analyse game instance running on PS4/other PCs)
-
-**Roadmap of the new project**
-
-- [x] [Done] Compatible with FFLogs
-- [ ] [Ongoing] Calculate DPS from network data, with DoT simulation
-- [ ] [Ongoing] GUI built with Electron
-- [ ] Custom overlays like OverlayPlugin
-- [ ] Compatible with cactbot raidboss
-- [ ] Custom plugins with powerful API
-- [ ] Custom triggers like Triggernometry
-- [ ] PS4/Router Support
-
----
-
 > 温馨提示:下方有中文版本.
 
 ---
@@ -129,3 +92,40 @@ FFXIV_ACT_Plugin_CN 当前相比于原版 FFXIV_ACT_Plugin 有以下更改：
 
 * [联系我们 - FFCafe](https://ffcafe.org/contact/)
 * [Telegram](https://t.me/YuzurihaAsano)
+
+---
+
+**Something about the future**
+
+Our team is shifting our focus from maintaining FFXIV_ACT_Plugin and Advanced Combat Tracker to creating a brand new FFXIV plugin ecosystem.
+
+If you're interested in doing something big, and meet one of the following requirements, you can reach me at [Telegram](https://t.me/YuzurihaAsano) or [Discord](https://discord.gg/KYbkUnU).
+
+- experienced at UX/UI designing
+- have a good understanding of current ACT plugins (or at least FFXIV_ACT_Plugin)
+- have a good understanding of FFXIV combat system (eg. how to calculate damage per potency, etc.)
+- experienced at developing TypeScript plugin system
+
+**Proposed features of the new project**
+
+- Intuitive GUI, easy to use & configure
+- Custom skins for GUI
+- Local high-precision aDPS & rDPS tracking, without uploading logs to FFLogs
+- Modern TypeScript plugin system
+- Responsive data interfaces for plugins, no more "log lines" parsing
+- Low-level network & memory data interfaces
+- Custom in-game overlays based on webview
+- Cactbot compatibility
+- Custom user-scripts for creating triggers
+- Remote data source support (analyse game instance running on PS4/other PCs)
+
+**Roadmap of the new project**
+
+- [x] [Done] Compatible with FFLogs
+- [ ] [Ongoing] Calculate DPS from network data, with DoT simulation
+- [ ] [Ongoing] GUI built with Electron
+- [ ] Custom overlays like OverlayPlugin
+- [ ] Compatible with cactbot raidboss
+- [ ] Custom plugins with powerful API
+- [ ] Custom triggers like Triggernometry
+- [ ] PS4/Router Support

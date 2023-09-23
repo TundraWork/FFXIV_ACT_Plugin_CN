@@ -9,38 +9,42 @@ FFXIV_ACT_Plugin for FFXIV CN client.
 
 ## About
 
-This is modified version of FFXIV_ACT_Plugin that provides ability to run and generate combat log compatible with FF Logs (only) with FFXIV CN client.
+This is a modified version of FFXIV_ACT_Plugin that provides the ability to run and generate combat logs compatible with FF Logs (only) with FFXIV CN client.
 
-More details about FFXIV_ACT_Plugin please referrer to [https://github.com/ravahn/FFXIV_ACT_Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin).
+For more details about FFXIV_ACT_Plugin, please refer to [https://github.com/ravahn/FFXIV_ACT_Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin).
 
 ### NOTES
 
-* FFXIV_ACT_Plugin_CN is only meant to support current FFXIV CN client version (mostly it is about half a year behind JP, NA and EU client version).
-* FFXIV_ACT_Plugin_CN is meant to be loaded on the original Advanced Combat Tracker. Do not use it on modified versions of ACT.
+* FFXIV_ACT_Plugin_CN is designed
+
+### NOTES
+
+* FFXIV_ACT_Plugin_CN is designed to support the current FFXIV CN client version, which is typically about four months behind the JP, NA, and EU client versions.
+* FFXIV_ACT_Plugin_CN should be loaded on the original Advanced Combat Tracker. Do not use it with modified versions of ACT.
 
 ## Installing
 
-The procedure is exactly the same with the original version.
+The procedure is exactly the same as the original version.
 
 Please referrer to [FFXIV_ACT_Plugin's README.md](https://github.com/ravahn/FFXIV_ACT_Plugin/blob/master/README.md).
 
-## README to developers
+## README for Developers
 
-We are completely open to other developers in the FFXIV family. Whether you are a developer of plugins/tools for FFXIV Chinese or Global version, we are very happy to provide you details of this modified FFXIV_ACT_Plugin version and to help your plugins/tools work with this version.
+We are completely open to other developers in the FFXIV community. Whether you are a developer of plugins/tools for the FFXIV Chinese or Global version, we are happy to provide you with details of this modified FFXIV_ACT_Plugin version and to help your plugins/tools work with this version.
 
-FFXIV_ACT_Plugin_CN currently has following changes compared with the original FFXIV_ACT_Plugin:
+FFXIV_ACT_Plugin_CN currently has the following changes compared to the original FFXIV_ACT_Plugin:
 
-* All built-in resources (like skills, abilities, buffs, regions, etc.) are patched and consistent with FFXIV CN client
-* Patched Machina with network IPC opcodes of newest FFXIV CN client version
-* Patched Machina so that it can automatically find the process of FFXIV Chinese client
-* Changed some hardcoded memory offsets according to FFXIV CN client version
-* Please contact us for more detailed changes
+* All built-in resources (like skills, abilities, buffs, regions, etc.) are patched and consistent with the FFXIV CN client.
+* Patched Machina with network IPC opcodes of the latest FFXIV CN client version.
+* Patched Machina so that it can automatically find the process of the FFXIV Chinese client.
+* Changed some hardcoded memory offsets according to the FFXIV CN client version.
+* Please contact us for more detailed changes.
 
 ### NOTES
 
-* This version may have some changes not mentioned above, if your plugins/tools have some "advanced" mechanisms (like detecting game language from FFXIV_ACT_Plugin), please also get touch with us.
+* This version may have some changes not mentioned above. If your plugins/tools have some "advanced" mechanisms (like detecting game language from FFXIV_ACT_Plugin), please also get in touch with us.
 
-## Contact us
+## Contact Us
 
 NOTE: Do NOT use these links if you are a user of FFXIV_ACT_Plugin_CN. Please [open an issue](https://github.com/TundraWork/FFXIV_ACT_Plugin_CN/issues) instead.
 

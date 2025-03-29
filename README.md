@@ -15,10 +15,6 @@ For more details about FFXIV_ACT_Plugin, please refer to [https://github.com/rav
 
 ### NOTES
 
-* FFXIV_ACT_Plugin_CN is designed
-
-### NOTES
-
 * FFXIV_ACT_Plugin_CN is designed to support the current FFXIV CN client version, which is typically about four months behind the JP, NA, and EU client versions.
 * FFXIV_ACT_Plugin_CN should be loaded on the original Advanced Combat Tracker. Do not use it with modified versions of ACT.
 
